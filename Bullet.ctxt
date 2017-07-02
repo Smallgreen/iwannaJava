@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=size\ speed\ game
+comment0.target=Bullet(double,\ double,\ iWanna)
+comment0.text=the\ constructor,\ create\ the\ ball
+comment1.params=
+comment1.target=void\ run()
+comment1.text=the\ run\ method,\ to\ animate\ the\ ball
+comment2.params=
+comment2.target=void\ oneTimeStep()
+comment3.params=
+comment3.target=void\ explode()
+comment4.params=
+comment4.target=void\ die()
+comment4.text=stop\ the\ animation
+comment5.params=
+comment5.target=boolean\ isAlive()
+numComments=6
