@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=speed\ angle\ game
+comment0.target=Barrage(double,\ double,\ iWanna)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=the\ constructor,\ create\ the\ blackhole
+comment2.params=
+comment2.target=void\ oneTimeStep()
+comment3.params=
+comment3.target=double\ getAngle()
+comment3.text=return\ the\ current\ angle
+comment4.params=angle
+comment4.target=void\ setAngle(double)
+comment4.text=set\ the\ angle
+comment5.params=speed
+comment5.target=void\ setSpeed(double)
+comment6.params=
+comment6.target=void\ disappear()
+comment7.params=
+comment7.target=void\ diebarrage()
+comment7.text=stop\ the\ animation
+comment8.params=
+comment8.target=boolean\ isAlive()
+numComments=9

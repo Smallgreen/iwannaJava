@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=size\ game
+comment0.target=Kid(double,\ iWanna)
+comment0.text=the\ constructor,\ create\ the\ ball
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ oneTimeStep()
+comment3.params=xspeed
+comment3.target=void\ setxSpeed(double)
+comment4.params=
+comment4.target=void\ changeImage()
+comment5.params=changeImage
+comment5.target=void\ setchangeImage(boolean)
+comment6.params=
+comment6.target=boolean\ getchangeImage()
+comment7.params=
+comment7.target=void\ jump()
+comment8.params=
+comment8.target=void\ applyGravity()
+comment9.params=
+comment9.target=void\ stopFalling()
+numComments=10
