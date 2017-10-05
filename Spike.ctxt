@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=size\ hasSpike\ game
-comment0.target=Spike(double,\ boolean,\ iWanna)
-comment0.text=the\ constructor,\ create\ the\ ball
-comment1.params=
-comment1.target=boolean\ hasSpike()
-numComments=2
