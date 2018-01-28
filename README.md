@@ -16,3 +16,11 @@ How to play:
  * Boss: the boss has 50 hp, and one shot takes one hp, which means player should shoot it for 50 times.
  * Game over: if the kid hit the spikes or the barrage at the boss map, the kid will die.
  * Game win: if the player kill the boss, the game will win.
+
+screenshot:
+
+start interface:
+https://github.com/Smallgreen/iwannaJava/blob/master/Picture1.png
+
+first mission:
+https://github.com/Smallgreen/iwannaJava/blob/master/Picture2.png
