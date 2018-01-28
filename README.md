@@ -20,7 +20,7 @@ How to play:
 screenshot:
 
 start interface:
-https://github.com/Smallgreen/iwannaJava/blob/master/Picture1.png
+![Alt text](https://github.com/Smallgreen/iwannaJava/blob/master/Picture1.png)
 
 first mission:
-https://github.com/Smallgreen/iwannaJava/blob/master/Picture2.png
+![Alt text](https://github.com/Smallgreen/iwannaJava/blob/master/Picture2.png)
